@@ -2,17 +2,7 @@
 layout: default
 ---
 
-header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
+[GLCM Paper](https://revanthstrakz.github.io/downloads/glcm%20paper.pdf)
 
 [the great gatsyby](https://www.pdfdrive.com/the-great-gatsby-e14979599.html)
 
