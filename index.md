@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+[esv](https://revanthstrakz.github.io/downloads/esv.epub
 [CW2](https://revanthstrakz.github.io/downloads/CW2.epub)
 
 [GLCM Paper](https://revanthstrakz.github.io/downloads/glcm%20paper.pdf)
