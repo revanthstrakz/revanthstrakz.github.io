@@ -9,7 +9,10 @@ layout: default
 
 [the great gatsyby](https://www.pdfdrive.com/the-great-gatsby-e14979599.html)
 
-[The_Art_of_Thinking_Clearly](https://revanthstrakz.github.io/downloads/The_Art_of_Thinking_Clearly.epub)
+[The_Art_of_Thinking_C7learly](https://revanthstrakz.github.io/downloads/The_Art_of_Thinking_Clearly.epub)
+
+[Analysis of Algorithms](https://bit.ly/3596OqB)
+
 
 
 
